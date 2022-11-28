@@ -1,0 +1,52 @@
+.fade-in {
+  animation: 0.7s ease-out 0s 1 ease-out;
+}
+
+@keyframes ease-out {
+  0% {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.disabled {
+  opacity: 15%;
+  cursor: not-allowed;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+footer.nb-footer {
+  background-color: #0272f8;
+}
+footer.nb-footer .about {
+  margin: 0 auto;
+  margin-top: 40px;
+  max-width: 1170px;
+  text-align: center;
+}
+footer.nb-footer .about p {
+  font-size: 13px;
+  color: white;
+  margin-top: 30px;
+}
+footer.nb-footer .copyright {
+  margin-top: 15px;
+  background: #111;
+  padding: 7px 0;
+  color: #999;
+  text-align: center;
+}
+footer.nb-footer .copyright p {
+  margin: 0;
+  padding: 0;
+}
