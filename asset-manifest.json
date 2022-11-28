@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cdss4pcp-web/static/css/main.08f315f0.css",
+    "main.js": "/cdss4pcp-web/static/js/main.afef4458.js",
+    "static/js/787.76e17624.chunk.js": "/cdss4pcp-web/static/js/787.76e17624.chunk.js",
+    "index.html": "/cdss4pcp-web/index.html",
+    "main.08f315f0.css.map": "/cdss4pcp-web/static/css/main.08f315f0.css.map",
+    "main.afef4458.js.map": "/cdss4pcp-web/static/js/main.afef4458.js.map",
+    "787.76e17624.chunk.js.map": "/cdss4pcp-web/static/js/787.76e17624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f315f0.css",
+    "static/js/main.afef4458.js"
+  ]
+}
