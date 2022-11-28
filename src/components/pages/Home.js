@@ -1,5 +1,4 @@
 import {Container, Carousel, Row, Col} from "react-bootstrap";
-import Img from "../Img";
 
 function $1(props) {
     return (
@@ -96,7 +95,7 @@ function $1(props) {
                 <Row>
                     <h3 className="page-header">Recent Projects</h3>
                     <Col xs={4}>
-                        <a href="#"><Img className="img-responsive portfolio-item img-fluid" src="assets/pages/home/carousel_2.jpg"/></a>
+                        <a href="#"><img className="img-responsive portfolio-item img-fluid" src="assets/pages/home/carousel_2.jpg"/></a>
                         <h5 className="text-center"><a href="/projects/project-one">Automatic Identication of CDSS
                             Ontology Candidates</a></h5>
                         <p>We are leveraging deep learning and natural language processing techniques to automatically identify key phrases for the CDSS ontology we are constructing.</p>

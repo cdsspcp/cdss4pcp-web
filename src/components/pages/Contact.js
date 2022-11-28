@@ -70,8 +70,7 @@ function $1(props) {
                     </div>
 
                     <div className="col-md-4">
-                        <h3><a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">Dr. Xia
-                            Jing</a></h3>
+                        <h3><a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">Dr. Xia Jing</a></h3>
                         <p>Associate Professor @ Clemson University, US. Expertise in Ontology, medicine. Check out
                             my <a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">bio</a> to
                             know more about me.</p>

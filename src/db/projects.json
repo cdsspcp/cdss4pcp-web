@@ -1,0 +1,22 @@
+{
+  "Automatic-Identication-of-CDSS-Ontology-Entity-Candidates": {
+    "image": "carousel_1.jpg",
+    "short-description": "We are leveraging deep learning and natural language processing techniques to automatically identify key phrases for the CDSS ontology we are constructing."
+  },
+  "CDSS-Ontology": {
+    "image": "carousel_1.jpg",
+    "short-description": "We are constructing a CDSS ontology aiming to improve the semantic interoperability of CDSS rules via the CDSS ontology."
+  },
+  "CDSS-Modules-for-OpenMRS-and-OpenEMR": {
+    "image": "carousel_1.jpg",
+    "short-description": "We are developing an open and reusable CDSS module for OpenMRS and an enhanced CDSS module for OpenEMR as test beds for the interoperable CDSS rules."
+  },
+  "User-Testing": {
+    "image": "carousel_1.jpg",
+    "short-description": "We will invite primary care providers (i.e., general practitioners or family medicine physicians) to participate in a usability and utility test for the CDSS modules in OpenMRS and OpenEMR."
+  },
+  "CDSS-Open-Course": {
+    "image": "carousel_1.jpg",
+    "short-description": "This open course focuses on CDSS design, development, use, maintenance, and evaluation. For Clemson and MUSC BDSI (https://www.cs.clemson.edu/bdsi/) students, this course will be offered as 3 credit hours in the near future."
+  }
+}
