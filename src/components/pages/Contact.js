@@ -26,7 +26,7 @@ function $1(props) {
                                 <div className="col-lg-12">
                                     <div className="jumbotron">
                                         <h3>What we are doing?</h3>
-                                        <p className="lead">Dr. Jing has been educated and trained in medical informatics (M.D.), health
+                                        <p>Dr. Jing has been educated and trained in medical informatics (M.D.), health
                                             informatics (Ph.D.), and clinical informatics (postdoctoral training). She has
                                             conducted health informatics research in China, UK, and the USA with her
                                             supervisors, mentors, and independently in the past.
@@ -63,8 +63,9 @@ function $1(props) {
                                                     <p>Experience with analysis of data from neuroimaging or psychology
                                                         studies is preferred. Working knowledge of statistics is
                                                         preferred.</p>
-                                                    <a href="mailto:xjing@clemson.edu?subject=Application for job opening in HI-D&E!">apply here</a>
+                                                    <a href="mailto:xjing@clemson.edu?subject=Application for job opening in HI-D&E!">=> apply here &lt;=</a>
                                     </div>
+                                    <br/>
                                 </div>
                             </div>
                     </div>

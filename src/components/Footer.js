@@ -4,6 +4,7 @@ import {Link} from "react-router-dom";
 function $1(props) {
     return (
         <>
+            <br/>
             <footer className="nb-footer">
                 <Container>
                     <div className="row">

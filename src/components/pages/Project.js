@@ -5,7 +5,7 @@ import projectsDetails from "../../db/projects.json";
 
 function $1(props) {
     let location = useLocation().pathname.split("/");
-    location = location[location.length -1];
+    location = decodeURIComponent(decodeURIComponent(location[location.length -1]));
     const projectDetail = projectsDetails[location];
 
     return (
@@ -18,8 +18,9 @@ function $1(props) {
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="jumbotron">
+                                        <br/>
                                         <h3>What we are doing?</h3>
-                                        <p className="lead">{projectDetail["short-description"]}</p>
+                                        <p>{projectDetail["long-description"]}</p>
                                         <div className="row">
                                             <div className="col-lg-4">
                                                 <div className="card border-0 shadow">

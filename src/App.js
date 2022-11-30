@@ -14,7 +14,7 @@ import Project from "./components/pages/Project";
 
 function App() {
     const pages = [
-        {component: <Home/>, name: "CDSS4PCP", href:"/"},
+        {component: <Home/>, name: "Home", href:"/"},
         {component: <Projects/>, name: "Projects", href: "/projects"},
         {component: <Team/>, name: "Team", href: "/team"},
         {component: <News/>, name: "News", href: "/news"},
