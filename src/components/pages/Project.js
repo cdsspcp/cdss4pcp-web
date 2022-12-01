@@ -2,10 +2,11 @@ import {Container, Row, Col} from "react-bootstrap";
 import Header from "../Header";
 import { useLocation } from 'react-router-dom';
 import projectsDetails from "../../db/projects.json";
+import {decodeURI} from "../../util/urlEncDec";
 
 function $1(props) {
     let location = useLocation().pathname.split("/");
-    location = decodeURIComponent(decodeURIComponent(location[location.length -1]));
+    location = decodeURI(location[location.length -1]);
     const projectDetail = projectsDetails[location];
 
     return (

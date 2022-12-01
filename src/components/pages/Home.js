@@ -5,6 +5,7 @@ import OwlCarousel from 'react-owl-carousel2';
 import 'react-owl-carousel2/src/owl.carousel.css';
 import 'react-owl-carousel2/src/owl.theme.default.css';
 import Header from "../Header";
+import {encodeURI} from "../../util/urlEncDec";
 
 function $1(props) {
     return (
@@ -26,21 +27,21 @@ function $1(props) {
 
                             <div className="row">
                                 <div className="col-md-12">
-                                    <OwlCarousel options={{nav: true, rewind: true, autoplay: true, responsive: { 0: {items: 1}, 1000: { items: 2}, 1800: { items: 2}}, }} loop margin={10} nav>
+                                    <OwlCarousel options={{nav: true, rewind: true, autoplay: true, responsive: { 0: {items: 1}, 1000: { items: 2}, 1800: { items: 2}}, }} loop margin={10}>
                                         {
                                             Object.keys(projectsDetails).filter(projectName => projectsDetails[projectName].latest).map(projectName=>{
                                                 return (
                                                     <div className="post-slide">
                                                         <div className="post-img">
-                                                            <img style={{"max-height": "300px"}} src={`assets/pages/home/${projectsDetails[projectName]["image"]}`} alt=""/>
-                                                            <Link className="over-layer" to={`/project/${encodeURIComponent(encodeURIComponent(projectName))}`}></Link>
+                                                            <img style={{maxHeight: "300px"}} src={`assets/pages/home/${projectsDetails[projectName]["image"]}`} alt=""/>
+                                                            <Link className="over-layer" to={`/project/${encodeURI(projectName)}`}></Link>
                                                         </div>
                                                         <div className="post-content">
                                                             <h3 className="post-title">
-                                                                <Link to={`/project/${encodeURIComponent(encodeURIComponent(projectName))}`}>{projectName}</Link>
+                                                                <Link to={`/project/${encodeURI(projectName)}`}>{projectName}</Link>
                                                             </h3>
-                                                            <p className="post-description" style={{"min-height": "100px"}}>{projectsDetails[projectName]["short-description"]}</p>
-                                                            <Link className="read-more" to={`/project/${encodeURIComponent(encodeURIComponent(projectName))}`}>Read More</Link>
+                                                            <p className="post-description" style={{minHeight: "100px"}}>{projectsDetails[projectName]["short-description"]}</p>
+                                                            <Link className="read-more" to={`/project/${encodeURI(projectName)}`}>Read More</Link>
                                                         </div>
                                                     </div>
                                                 );

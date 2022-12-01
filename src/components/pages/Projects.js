@@ -2,6 +2,7 @@ import {Container, Row, Col} from "react-bootstrap";
 import Header from "../Header";
 import {Link} from "react-router-dom";
 import projectsDetails from "../../db/projects.json";
+import {encodeURI} from "../../util/urlEncDec";
 
 function $1(props) {
     return (
@@ -15,12 +16,12 @@ function $1(props) {
                         Object.keys(projectsDetails).map(projectName => {
                             return (
                                 <div className="col-md-6 portfolio-item">
-                                    <Link to={`/project/${encodeURIComponent(encodeURIComponent(projectName))}`}>
+                                    <Link to={`/project/${encodeURI(projectName)}`}>
                                         <img style={{"max-height": "320px", "width": "100%"}} className="img-responsive img-fluid" src={`assets/pages/home/${projectsDetails[projectName]["image"]}`}/>
                                     </Link>
                                     <br/>
                                     <br/>
-                                    <h5 className="text-center"><Link to={`/project/${encodeURIComponent(encodeURIComponent(projectName))}`}>{projectName}</Link></h5>
+                                    <h5 className="text-center"><Link to={`/project/${encodeURI(projectName)}`}>{projectName}</Link></h5>
                                     <p>{projectsDetails[projectName]["short-description"]}</p>
                                     <br/>
                                 </div>

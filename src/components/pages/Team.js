@@ -11,10 +11,10 @@ function $1(props) {
                 {
                     teamData.map(team => {
                         return (
-                                <Row>
+                                <Row style={{backgroundColor: "#f8f9fa", margin: "5px"}}>
                                     <Row>
-                                        <div className="rounded-lg bg-gradient mt-3 mb-2">
-                                            <h4>{team.description}</h4>
+                                        <div className="rounded-lg bg-gradient mt-3 mb-2 text-center">
+                                            <h5>{team.description}</h5>
                                         </div>
                                     </Row>
                                     <Row>
@@ -23,8 +23,8 @@ function $1(props) {
                                                 return (
                                                     <div className="col-xl-4 col-md-6 mb-4">
                                                         <div className="card border-0 shadow">
-                                                            <div style={{width: "80%", margin: "auto"}}>
-                                                                <img src={`assets/team/${member.image}`} className="card-img-top fade-in"/>
+                                                            <div style={{height: "450px", margin: "auto"}}>
+                                                                <img style={{maxHeight: "450px"}} src={`assets/team/${member.image}`} className="card-img-top fade-in"/>
                                                             </div>
                                                             <div className="card-body" style={{borderBottom: "3px solid #0273f5"}}>
                                                                 <h5 className="card-text text-black-50">{member.name} <Badge pill bg="dark" style={{opacity: "60%"}}>{member.role}</Badge></h5>
