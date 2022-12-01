@@ -15,7 +15,7 @@ function $1(props) {
                     {
                         Object.keys(projectsDetails).map(projectName => {
                             return (
-                                <div className="col-md-6 portfolio-item">
+                                <div className="col-md-6">
                                     <Link to={`/project/${encodeURI(projectName)}`}>
                                         <img style={{"max-height": "320px", "width": "100%"}} className="img-responsive img-fluid" src={`assets/pages/home/${projectsDetails[projectName]["image"]}`}/>
                                     </Link>
