@@ -7,11 +7,13 @@ import 'react-owl-carousel2/src/owl.theme.default.css';
 import Header from "../Header";
 import {encodeURI} from "../../util/urlEncDec";
 import QuickLinks from "../QuickLinks";
+import FeedbackBox from "../FeedbackBox";
 
 function $1(props) {
     return (
         <>
-            <Header title="Welcome to CDSS4PCP Lab" />
+            <Header title="Welcome to CDSS4PCP Project" />
+            <FeedbackBox/>
             <Container fluid="md">
                 <Row>
                     <div className="col-lg-12">

@@ -23,17 +23,6 @@ function $1(props) {
                                         <br/>
                                         <h3>What we are doing?</h3>
                                         <p>{projectDetail["long-description"]}</p>
-                                        <div className="row">
-                                            <div className="col-lg-4">
-                                                <div className="card border-0 shadow">
-                                                    <img className="img-responsive img-fluid" src="assets/team/XiaJ.jpg"/>
-                                                        <div className="card-body text-center">
-                                                            <h5 className="card-title mb-0">Team Lead</h5>
-                                                            <a className="card-text text-black-50" target="_blank" href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">Dr. Xia Jing</a>
-                                                        </div>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>

@@ -182,3 +182,75 @@ footer.nb-footer .copyright p {
     padding: 0px 15px 25px 15px;
   }
 }
+
+
+.chat-btn {
+  position: fixed;
+  right: 14px;
+  bottom: 30px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  z-index: 999;
+}
+
+.chat-btn .close {
+  display: none
+}
+
+#feedback-hidden-check:checked~.chat-btn .close {
+  display: block;
+  pointer-events: auto;
+}
+
+#feedback-hidden-check:checked~.chat-btn .comment {
+  display: none
+}
+
+.chat-btn .close {
+  font-size: 22px;
+}
+
+#feedback-box-wrapper {
+  position: fixed;
+  right: 20px;
+  bottom: 100px;
+  width: 300px;
+  border-radius: 5px;
+  opacity: 0;
+  transition: all 0.4s;
+  background-color: #2196f3;
+  z-index: 999;
+}
+
+#feedback-hidden-check:checked~#feedback-box-wrapper {
+  opacity: 1
+}
+
+#feedback-header {
+  padding: 13px;
+  color: white;
+  background-color: #212529;
+  border-radius: 5px 5px 0px 0px;
+  margin-bottom: 10px;
+}
+
+.chat-form {
+  padding: 15px
+}
+
+.chat-form > input, .chat-form > textarea, .chat-form > button {
+  margin-bottom: 15px;
+}
+
+.chat-form textarea {
+  resize: none
+}
+
+#feedback-hidden-check {
+  display: none !important
+}
