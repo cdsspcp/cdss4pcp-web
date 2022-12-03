@@ -3,17 +3,20 @@ import {Navbar, Nav} from "react-bootstrap";
 
 function $1({pages}) {
     return (
-        <Navbar bg="dark" variant="dark" expand="lg">
-            <Navbar.Brand>CDSS4PCP</Navbar.Brand>
-            <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="me-auto">
-                    {
-                        pages.map((page, index)=> (<HeaderLink page={page} index={index}/>))
-                    }
-                </Nav>
-            </Navbar.Collapse>
-        </Navbar>
+        <>
+            <Navbar bg="dark" variant="dark" expand="lg" className="fixed-top">
+                <Navbar.Brand>CDSS4PCP</Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <Nav className="me-auto">
+                        {
+                            pages.map((page, index)=> (<HeaderLink page={page} index={index}/>))
+                        }
+                    </Nav>
+                </Navbar.Collapse>
+            </Navbar>
+            <div style={{height: "56px"}}></div>
+        </>
     );
 }
 
