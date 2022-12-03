@@ -28,6 +28,18 @@ function $1(props) {
                                     <div className="jumbotron">
                                         <h3>What we are doing?</h3>
                                         <p>Dr. Jing has been educated and trained in medical informatics (M.D.), health informatics (Ph.D.), and clinical informatics (postdoctoral training). She has conducted health informatics research in China, UK, and the USA with her supervisors, mentors, and independently in the past. Her main research interests involve developing new methods, models, and applications to facilitate biomedical researchers, clinicians, and healthcare administrators, directly or indirectly, to make better-informed decisions when utilizing existing evidence. Her lab at Clemson University is Health Informatics-Decisions and Evidence <strong>(HI-D&E)</strong>. On the basic science of health informatics, she and her collaborators conduct controlled studies to explore clinicians’ research hypothesis generation process via secondary data analytic tools (funded via NIH R15). On the applied science of health informatics, CDSS4PCP is an example. CDSS4PCP intends to explore reusable generic machine-executable rules for CDC- recommended immunization schedules in primary care settings without in- house technical support. In addition, exploring telemedicine in rural areas, exploring the measurement of an individual&#39;s health status, and clinically actionable genomic information is also on her research agenda. She is honored to be part of the NIH-funded T15 grant for the Clemson-MUSC joint BDSI program. She teaches various graduate and undergraduate courses on health informatics. She also serves as a reviewer for multiple health informatics journals, conferences, and proposals and provides services via the American Medical Informatics Association (AMIA). Currently, Dr. Jing also serves as an AHA (American Heart Association) Strategically Focused Research Network (SFRN) Health Technologies &amp; Innovation: Oversight Advisory Committee member.</p>
+                                        <h5>Xia Jing’s Internet Profiles:</h5>
+                                        <ul>
+                                            {
+                                                [
+                                                    ["My NCBI", "https://www.ncbi.nlm.nih.gov/myncbi/1hMsH2enqFrk-/bibliography/public/"],
+                                                    ["Research Gate", "https://www.researchgate.net/profile/Xia-Jing"],
+                                                    ["Clemson University", "https://www.clemson.edu/cbshs/faculty-staff/profiles/xjing"],
+                                                    ["ORCiD", "https://orcid.org/0000-0002-1916-4588"],
+                                                    ["LinkedIn", "https://www.linkedin.com/in/xiajing/"]
+                                                ].map(link=> <li style={{marginBottom: "10px"}}><strong>{link[0]} :</strong> <a href={link[1]} target="_blank">{link[1]}</a></li>)
+                                            }
+                                        </ul>
                                         <hr/>
                                             <h4>Job Openings</h4>
                                             <img src="assets/logos/clemson.png" className="img-fluid" alt="Responsive image"/>
@@ -45,7 +57,7 @@ function $1(props) {
 
                     <div className="col-md-4">
                         <h3><a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">Dr. Xia Jing</a></h3>
-                        <p>Associate Professor @ Clemson University, US. Expertise in Ontology, medicine. Check out my <a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">bio</a> to know more about me.</p>
+                        <p>Associate Professor <span><a href="https://www.clemson.edu/" target="_blank">@Clemson University, US</a></span>. Expertise in Ontology, medicine. Check out my <a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=xjing">bio</a> to know more about me.</p>
                         <h3>Quick Links</h3>
                         <QuickLinks/>
                     </div>

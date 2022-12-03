@@ -191,18 +191,24 @@ footer.nb-footer .copyright p {
   cursor: pointer;
   width: 30px;
   height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   font-size: 22px;
   z-index: 999;
 }
 
-.chat-btn .close {
+.chat-btn > .close {
   display: none
 }
 
-#feedback-hidden-check:checked~.chat-btn .close {
+#feedback-hidden-check:checked~.chat-btn > .close {
   display: block;
   pointer-events: auto;
 }
@@ -211,7 +217,7 @@ footer.nb-footer .copyright p {
   display: none
 }
 
-.chat-btn .close {
+.chat-btn > .close {
   font-size: 22px;
 }
 
