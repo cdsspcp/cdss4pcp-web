@@ -13,7 +13,6 @@ function $1(props) {
     return (
         <>
             <Header title="Welcome to CDSS4PCP Project" />
-            <FeedbackBox/>
             <Container fluid="md">
                 <Row>
                     <div className="col-lg-12">
