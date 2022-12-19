@@ -11,6 +11,7 @@ import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
 import {Route, Routes} from "react-router-dom";
 import Project from "./components/pages/Project";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
     const pages = [
@@ -22,6 +23,7 @@ function App() {
     ];
     return (
         <div className="App">
+            <ScrollToTop/>
             <Header pages={pages}/>
             <Routes>
                 {pages.map((page, index) => (<Route path={page.href} key={index} element={page.component}/>))}
