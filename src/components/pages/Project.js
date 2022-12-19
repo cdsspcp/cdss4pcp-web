@@ -22,7 +22,9 @@ function $1(props) {
                                     <div className="jumbotron">
                                         <br/>
                                         <h3>What we are doing?</h3>
-                                        <p>{projectDetail["long-description"]}</p>
+                                        {
+                                            projectDetail["long-description"].split("\n").map(para=><p>{para}</p>)
+                                        }
                                     </div>
                                 </div>
                             </div>

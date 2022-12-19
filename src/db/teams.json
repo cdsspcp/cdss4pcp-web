@@ -57,6 +57,18 @@
     ]
   },
   {
+    "description": "Alumini (first name alphabetically)",
+    "members": [
+      {
+        "name": "Akash Indani",
+        "role": "GRA",
+        "image": "AkashI.jpg",
+        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "contact": {}
+      }
+    ]
+  },
+  {
     "description": "Investigation team for CDS ontology, rule reuse, management, and maintenance (first name alphabetically)",
     "members": [
       {

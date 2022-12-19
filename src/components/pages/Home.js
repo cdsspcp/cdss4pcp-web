@@ -29,7 +29,7 @@ function $1(props) {
 
                             <div className="row">
                                 <div className="col-md-12">
-                                    <OwlCarousel options={{nav: true, rewind: true, autoplay: true, responsive: { 0: {items: 1}, 1000: { items: 2}, 1800: { items: 2}}, }} loop margin={10}>
+                                    <OwlCarousel options={{autoplayHoverPause: true, nav: true, rewind: true, autoplay: true, responsive: { 0: {items: 1}, 1000: { items: 2}, 1800: { items: 2}}, }} loop margin={10}>
                                         {
                                             Object.keys(projectsDetails).filter(projectName => projectsDetails[projectName].latest).map(projectName=>{
                                                 return (
@@ -54,8 +54,8 @@ function $1(props) {
                             </div>
 
                             <h5>Funders:</h5>
-                            <img src="assets/logos/clemson.png" style={{height: "50px"}} className="img-fluid" alt="Responsive image"/>
-                            <img src="assets/logos/NIGMS.png" style={{height: "150px"}} className="img-fluid" alt="Responsive image"/>
+                            <a href="https://nigms.nih.gov/" target="_blank"><img src="assets/logos/NIGMS.png" style={{height: "150px"}} className="img-fluid" alt="Responsive image"/></a>
+                            <a href="https://www.clemson.edu/" target="_blank"><img src="assets/logos/clemson.png" style={{height: "50px"}} className="img-fluid" alt="Responsive image"/></a>
                             <hr className="my-4"/>
                             <p>We are working on the amazing projects and researches</p>
                             <p className="lead">
