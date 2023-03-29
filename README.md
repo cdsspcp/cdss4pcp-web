@@ -26,7 +26,7 @@ If everything went right, Local server will spin up the website in the default b
 
 
 ### Deploy to production
-This steps will help you to push the code to production. Be careful with this step because this will update the production (live at [https://cds4pcp.com](https://cds4pcp.com)).
+This steps will help you to push the code to production. Be careful with this step because this will update the production (live at [https://cds4pcp.com](https://cdss4pcp.com)).
 
 #### Deploy
 ```
