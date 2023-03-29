@@ -13,7 +13,7 @@ git clone https://github.com/cdsspcp/cdss4pcp-web.git
 ```
 
 #### Install the dependencies
-First ensure you are in the correct ~/cdss4pcp-web directory
+First ensure your path directory is ~/cdss4pcp-web
 ```
 npm install --save --legacy-peer-deps
 ```
