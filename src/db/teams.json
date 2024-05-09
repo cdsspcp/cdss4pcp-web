@@ -52,7 +52,11 @@
         "role": "GRA",
         "image": "Samuil_o.jpeg",
         "intro": "Masters Student, School of Computing - Clemson University, US",
-        "contact": {}
+        "contact": {
+           "mail": "sorliog@clemson.edu",
+          "linkedin": "https://www.linkedin.com/in/samuil-orlioglu/",
+          "github": "https://github.com/DrSmCraft"
+           }
       }
     ]
   },
