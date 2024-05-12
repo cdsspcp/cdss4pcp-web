@@ -24,18 +24,7 @@
           "linkedin": "https://www.linkedin.com/in/chloecrozier/"
         }
       },
-      {
-        "name": "Karthik Nedunchezhiyan",
-        "role": "GRA",
-        "image": "KarthikN.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
-        "contact": {
-          "mail": "karthik.nedchezhiyan@gmail.com",
-          "website": "https://karthiknedunchezhiyan.me/",
-          "linkedin": "https://www.linkedin.com/in/karthiknedunchezhiyan/",
-          "github": "https://github.com/karthiknedunchezhiyan"
-        }
-      },
+      
       {
         "name": "Rohan Goli",
         "role": "GRA",
@@ -69,6 +58,18 @@
         "image": "AkashI.jpg",
         "intro": "Masters Student, School of Computing - Clemson University, US",
         "contact": {}
+      },
+      {
+        "name": "Karthik Nedunchezhiyan",
+        "role": "GRA",
+        "image": "KarthikN.jpg",
+        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "karthik.nedchezhiyan@gmail.com",
+          "website": "https://karthiknedunchezhiyan.me/",
+          "linkedin": "https://www.linkedin.com/in/karthiknedunchezhiyan/",
+          "github": "https://github.com/karthiknedunchezhiyan"
+        }
       }
     ]
   },
