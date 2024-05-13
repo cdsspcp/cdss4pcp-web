@@ -14,16 +14,7 @@
           "linkedin": "https://www.linkedin.com/in/akash-sb-882248124/"
         }
       },
-      {
-        "name": "Chloe Crozier",
-        "role": "GRA",
-        "image": "CholeC.jpg",
-        "intro": "Undergraduate Student, School of Computing - Clemson University, US",
-        "contact": {
-          "mail": "cscrozi@clemson.edu",
-          "linkedin": "https://www.linkedin.com/in/chloecrozier/"
-        }
-      },
+      
       {
         "name": "Keerthana Komatineni",
         "role": "GRA",
@@ -34,17 +25,7 @@
           "linkedin": "https://www.linkedin.com/in/keerthana-komatineni/"
         }
       },
-      {
-        "name": "Rohan Goli",
-        "role": "GRA",
-        "image": "RohanG.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
-        "contact": {
-          "mail": "rgoli@g.clemson.edu",
-          "github": "https://github.com/rohangoli",
-          "website": "http://rohangoli.github.io/"
-        }
-      },
+      
       {
         "name": "Samuil Orlioglu",
         "role": "GRA",
@@ -63,10 +44,7 @@
         "intro": "Masters Student, School of Computing - Clemson University, US",
         "contact": {
           "mail": "ravia@.clemson.edu",
-          "linkedin": "https://www.linkedin.com/in/shailesh_alluri/"
-
-          
-          
+          "linkedin": "https://www.linkedin.com/in/shailesh-alluri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
         }
       }
     ]
@@ -82,6 +60,16 @@
         "contact": {}
       },
       {
+        "name": "Chloe Crozier",
+        "role": "GRA",
+        "image": "CholeC.jpg",
+        "intro": "Undergraduate Student, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "cscrozi@clemson.edu",
+          "linkedin": "https://www.linkedin.com/in/chloecrozier/"
+        }
+      },
+      {
         "name": "Karthik Nedunchezhiyan",
         "role": "GRA",
         "image": "KarthikN.jpg",
@@ -91,6 +79,17 @@
           "website": "https://karthiknedunchezhiyan.me/",
           "linkedin": "https://www.linkedin.com/in/karthiknedunchezhiyan/",
           "github": "https://github.com/karthiknedunchezhiyan"
+        }
+      },
+      {
+        "name": "Rohan Goli",
+        "role": "GRA",
+        "image": "RohanG.jpg",
+        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "rgoli@g.clemson.edu",
+          "github": "https://github.com/rohangoli",
+          "website": "http://rohangoli.github.io/"
         }
       }
     ]
