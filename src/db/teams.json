@@ -24,7 +24,16 @@
           "linkedin": "https://www.linkedin.com/in/chloecrozier/"
         }
       },
-      
+      {
+        "name": "Keerthana Komatineni",
+        "role": "GRA",
+        "image": "Keerthana_k.jpg",
+        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "kkomati@g.clemson.edu",
+          "linkedin": "https://www.linkedin.com/in/keerthana-komatineni/"
+        }
+      },
       {
         "name": "Rohan Goli",
         "role": "GRA",
@@ -46,6 +55,19 @@
           "linkedin": "https://www.linkedin.com/in/samuil-orlioglu/",
           "github": "https://github.com/DrSmCraft"
            }
+      },
+      {
+        "name": "Shailesh Alluri",
+        "role": "GRA",
+        "image": "Shailesh.jpg",
+        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "ravia@.clemson.edu",
+          "linkedin": "https://www.linkedin.com/in/shailesh_alluri/"
+
+          
+          
+        }
       }
     ]
   },
