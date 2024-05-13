@@ -2,6 +2,11 @@ function $1(props) {
     return (
         <ul>
             <li>
+                <a href="">Literature Analysis on Ontologies Applied in Clinical Decision Support Systems (https://ebooks.iospress.nl/doi/10.3233/SHTI231188)</a>
+                <p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nohr CG, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
+                <p>Studies in Health Technology and Informatics, 2024, 310: 1347-1348</p>
+            </li>
+            <li>
                 <a href="">A systematic approach to configuring MetaMap for optimal performance</a>
                 <p>Jing X, Indani A*, Hubig N, Min H, Gong Y, Cimino JJ, Sittig DF, Rennert L, Robinson D, Biondich P, Wright A, Nohr C, Law T, Faxvaag A, Gimbel R</p>
                 <p>Methods Inf Med, 2022. PMID: 35613942 DOI: 10.1055/a-1862-0421</p>
