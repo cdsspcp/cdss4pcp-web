@@ -2,8 +2,7 @@
   {
     "description": "Current students (first name alphabetically)",
     "members": [
-      
-        {
+      {
         "name": "Ameya Deshpande",
         "role": "GRA",
         "image": "AkashS.jpg",
@@ -11,8 +10,7 @@
         "contact": {
           "mail": "ameyad@clemson.edu",
           "linkedin": "https://www.linkedin.com/in/ameyadeshpande37/"
-      },
-        
+        }
       },
       
       {
