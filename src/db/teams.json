@@ -6,7 +6,7 @@
         "name": "Ameya Deshpande",
         "role": "GRA",
         "image": "ameya.jpeg",
-        "intro": "Masters Student, Biomedical Data Science and Informatics - Clemson University, US",
+        "intro": "MS, Biomedical Data Science and Informatics - Clemson University, US",
         "contact": {
           "mail": "ameyad@clemson.edu",
           "linkedin": "https://www.linkedin.com/in/ameyadeshpande37/"
@@ -17,7 +17,7 @@
         "name": "Keerthana Komatineni",
         "role": "GRA",
         "image": "Keerthana_K.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "kkomati@g.clemson.edu",
           "linkedin": "https://www.linkedin.com/in/keerthana-komatineni/"
@@ -28,7 +28,7 @@
         "name": "Samuil Orlioglu",
         "role": "GRA",
         "image": "Samuil_o.jpeg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
            "mail": "sorliog@clemson.edu",
           "linkedin": "https://www.linkedin.com/in/samuil-orlioglu/",
@@ -39,10 +39,19 @@
         "name": "Shailesh Alluri",
         "role": "GRA",
         "image": "Shailesh.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "ravia@.clemson.edu",
           "linkedin": "https://www.linkedin.com/in/shailesh-alluri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        }
+      },
+      {
+        "name": "Yujia Sun",
+        "role": "GRA",
+        "image": "Yujia.jpeg",
+        "intro": "PhD candidate, Joint Clemson-MUSC BDSI Program, US",
+        "contact": {
+          
         }
       }
     ]
@@ -54,7 +63,7 @@
         "name": "Akash Shanmugam Boobalan",
         "role": "GRA",
         "image": "AkashS.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "sbakash1398@gmail.com",
           "github": "https://github.com/sbakash",
@@ -66,15 +75,15 @@
         "name": "Akash Indani",
         "role": "GRA",
         "image": "AkashI.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {}
       },
       
       {
         "name": "Chloe Crozier",
-        "role": "GRA",
+        "role": "URA",
         "image": "CholeC.jpg",
-        "intro": "Undergraduate Student, School of Computing - Clemson University, US",
+        "intro": "BS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "cscrozi@clemson.edu",
           "linkedin": "https://www.linkedin.com/in/chloecrozier/"
@@ -84,7 +93,7 @@
         "name": "Karthik Nedunchezhiyan",
         "role": "GRA",
         "image": "KarthikN.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "karthik.nedchezhiyan@gmail.com",
           "website": "https://karthiknedunchezhiyan.me/",
@@ -96,7 +105,7 @@
         "name": "Rohan Goli",
         "role": "GRA",
         "image": "RohanG.jpg",
-        "intro": "Masters Student, School of Computing - Clemson University, US",
+        "intro": "MS, School of Computing - Clemson University, US",
         "contact": {
           "mail": "rgoli@g.clemson.edu",
           "github": "https://github.com/rohangoli",
