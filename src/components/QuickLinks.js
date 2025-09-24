@@ -2,9 +2,9 @@ function $1(props) {
     return (
         <ul>
             <li>
-                <a href="">Active learning pipeline to automatically identify candidate terms for a CDSS ontology—measures, experiments, and performance (https://medrxiv.org/cgi/content/short/2025.04.15.25325868v3)</a>
-                <p>Alluri S*, Komatineni K*, Goli R*, Boyce RD, Hubig N, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
-                <p>MedRxiv, Under Review</p>
+            <a href="https://medrxiv.org/cgi/content/short/2025.04.15.25325868v3" target="_blank" rel="noopener noreferrer"> Active learning pipeline to automatically identify candidate terms for a CDSS ontology—measures, experiments, and performance </a>
+            <p>Alluri S*, Komatineni K*, Goli R*, Boyce RD, Hubig N, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
+            <p>MedRxiv, Under Review</p>
             </li>
             
             <li>
