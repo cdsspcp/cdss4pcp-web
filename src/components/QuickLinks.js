@@ -2,6 +2,12 @@ function $1(props) {
     return (
         <ul>
             <li>
+                <a href="">Active learning pipeline to automatically identify candidate terms for a CDSS ontology—measures, experiments, and performance (https://medrxiv.org/cgi/content/short/2025.04.15.25325868v3)</a>
+                <p>Alluri S*, Komatineni K*, Goli R*, Boyce RD, Hubig N, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
+                <p>MedRxiv, Under Review</p>
+            </li>
+            
+            <li>
                 <a href="">Literature Analysis on Ontologies Applied in Clinical Decision Support Systems (https://ebooks.iospress.nl/doi/10.3233/SHTI231188)</a>
                 <p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nohr CG, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
                 <p>Studies in Health Technology and Informatics, 2024, 310: 1347-1348</p>
