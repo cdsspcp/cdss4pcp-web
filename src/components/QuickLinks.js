@@ -1,7 +1,14 @@
 function $1(props) {
     return (
         <ul>
-            <li>
+
+<li>
+  Literature Analysis on Ontologies Applied in Clinical Decision Support Systems.
+  <p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nohr CG, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
+  <p>Studies in Health Technology and Informatics, 2024, 310: 1347-1348. PMID: 38270037; PMCID: PMC10964188; DOI: 10.3233/SHTI231188</p>
+</li>
+
+<li>
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12150700/" target="_blank" rel="noopener noreferrer">Reusable Generic Clinical Decision Support System Module for Immunization Recommendations in Resource-Constraint Settings</a>
   <p>Orlioglu S*, Boobalan AS*, Abanyie K*, Boyce RD, Min H, Gong Y, Sittig DF, Biondich P, Wright A, Nøhr C, Law T, Robinson D, Faxvaag A, Hubig NC, Gimbel R, Rennert L, Jing X</p>
   <p>AMIA Summit 2025. Mar 10–13, 2025. Pittsburgh, Pennsylvania. eCollection. 395–404. PMID: 40502239; PMCID: PMC12150700</p>
