@@ -24,7 +24,9 @@ function $1(props) {
                                 investigation also aims to enable primary care providers, especially in small primary care
                                 practices, to manage and maintain CDS rules independently to keep CDS updated, useful, and
                                 working to its full potential and to benefit the large population served by such practices. 
-                                All the codes related to this project can be found through the GitHub link: </a>https://github.com/CDSS4PCP</a>.</p>
+                                All the codes related to this project can be found through the GitHub link: <a href="https://github.com/CDSS4PCP" target="_blank" rel="noopener noreferrer">
+                                    https://github.com/CDSS4PCP</a>. 
+    </p>
 
                             <h5>Latest Projects:</h5>
 
