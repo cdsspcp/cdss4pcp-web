@@ -23,7 +23,8 @@ function $1(props) {
                                 critical foundation for achieving interoperability for individuals’ immunization records. Our
                                 investigation also aims to enable primary care providers, especially in small primary care
                                 practices, to manage and maintain CDS rules independently to keep CDS updated, useful, and
-                                working to its full potential and to benefit the large population served by such practices.</p>
+                                working to its full potential and to benefit the large population served by such practices. 
+                                All the codes related to this project can be found through the GitHub link: </a>https://github.com/CDSS4PCP</a>.</p>
 
                             <h5>Latest Projects:</h5>
 
