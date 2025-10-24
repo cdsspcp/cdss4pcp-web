@@ -71,7 +71,7 @@ function $1(props) {
                 <Row>
                     <div className="col-lg-12">
                         <div className="rounded-lg m-3">
-                            <h2>Recent Publications and Articles</h2>
+                            <h2>Recent Publications (student*)</h2>
                             <QuickLinks/>
                         </div>
                     </div>

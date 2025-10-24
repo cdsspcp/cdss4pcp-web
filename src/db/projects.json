@@ -23,9 +23,24 @@
     "long-description": "We will invite primary care providers (i.e., general practitioners or family medicine physicians nurses) to participate in a usability and utility test for the CDSS modules in OpenMRS and OpenEMR."
   },
   "CDSS Open Course": {
-    "image": "carousel_2.jpg",
-    "short-description": "This open course focuses on CDSS design, development, use, maintenance, and evaluation. For Clemson and MUSC BDSI (https://www.cs.clemson.edu/bdsi/) students, this course will be offered as 3 credit hours in the near future.",
-    "long-description": "CDSS Open Course is the educational component of the CDSS4PCP project. It includes CDSS teaching modules that can be used among students and trainees interested in the CDSS and its working mechanisms. The educational modules will consist of lectures and hands-on sessions in a 1:1 ratio. The main discussion points will be provided for lectures and hands-on sessions, which include detailed instructions.\nThese educational modules can be used by non-computer science (CS) majors/background users who might have a background in nursing, health, or medicine to understand the working mechanisms of CDSS, rule maintenance, configuration, back end, and integration mechanisms between CDSS and EMR. Such technical details are critical for these potential CDSS users and future CDSS designers to understand and, more importantly, optimize the tool to its full potential. For CS major/background students, the modules can introduce the CDSS medical terms within the clinical environment and EMR contexts, which is equally critical for CS students who want to pursue a career in healthcare IT.\nThe lecture slides, hands-on session instructions, discussion points, and assignment instructions will be shared freely with anyone interested in the topic; non-self-directed quizzes and grading details will be shared with instructors on a case-by-case basis per request.",
-    "latest": true
-  }
+  "image": "carousel_2.jpg",
+  "short-description": "This open course focuses on CDSS design, development, use, maintenance, and evaluation. For Clemson and MUSC BDSI (https://www.cs.clemson.edu/bdsi/) students, this course will be offered as 3 credit hours in the near future.",
+  "long-description": "CDSS Open Course is the educational component of the CDSS4PCP project. It includes CDSS teaching modules that can be used among students and trainees interested in the CDSS and its working mechanisms. The educational modules will consist of lectures and hands-on sessions in a 1:1 ratio. The main discussion points will be provided for lectures and hands-on sessions, which include detailed instructions.\n\nThese educational modules can be used by non-computer science (CS) majors/background users who might have a background in nursing, health, or medicine to understand the working mechanisms of CDSS, rule maintenance, configuration, back end, and integration mechanisms between CDSS and EMR. Such technical details are critical for these potential CDSS users and future CDSS designers to understand and, more importantly, optimize the tool to its full potential. For CS major/background students, the modules can introduce the CDSS medical terms within the clinical environment and EMR contexts, which is equally critical for CS students who want to pursue a career in healthcare IT.\n\nThe lecture slides, hands-on session instructions, discussion points, and assignment instructions will be shared freely with anyone interested in the topic; non-self-directed quizzes and grading details will be shared with instructors on a case-by-case basis per request.\n\nPlease cite the following citations to acknowledge the group:\n\nMin H, Jing X, Gong Y, Yu P. Perspectives on Enhancing Clinical Informatics Education in the Artificial Intelligence Era. Journal of Clinical Informatics. JCI 2024, 1(1), 4496. PMID: 40051784; PMCID: PMC11884742. https://doi.org/10.36922/jci.4496\n\nGong Y, Min H, Jing X, Yu P. Challenges and Opportunities of Artificial Intelligence in CDSS and Patient Safety. Stud Health Technol Inform. 2024 Aug 22;316:1250-1254. PMID: 39176608; PMCID: PMC12145886; DOI: 10.3233/SHTI240638\n\nJing X. CDSS Open Course. 2025. https://cdss4pcp.com/#/project/CDSS%2520Open%2520Course",
+  "files": [
+    {
+      "name": "CDSS Assignment Instructions",
+      "file": "https://drive.google.com/file/d/1huFX8XwZQa8aBaVstAcrcFDmbWi3cr_v/view?usp=drive_link"
+    },
+    {
+      "name": "CDSS Syllabus",
+      "file": "https://drive.google.com/file/d/14HCO_Dx187Fz9ah6nFUZvBsisgVLkv4_/view?usp=drive_link"
+    },
+    {
+      "name": "Introduction to CDSS",
+      "file": "https://drive.google.com/file/d/1tIAFxZMkdO9hTtURwZINBM4fEsDGVF4O/view?usp=drive_link"
+    }
+  ],
+  "latest": true
 }
+
+  }

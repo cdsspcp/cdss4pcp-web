@@ -35,16 +35,7 @@
           "github": "https://github.com/DrSmCraft"
            }
       },
-      {
-        "name": "Shailesh Alluri",
-        "role": "GRA",
-        "image": "Shailesh.jpg",
-        "intro": "MS, School of Computing - Clemson University, US",
-        "contact": {
-          "mail": "ravia@.clemson.edu",
-          "linkedin": "https://www.linkedin.com/in/shailesh-alluri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-        }
-      },
+      
       {
         "name": "Yujia Sun",
         "role": "GRA",
@@ -110,6 +101,16 @@
           "mail": "rgoli@g.clemson.edu",
           "github": "https://github.com/rohangoli",
           "website": "http://rohangoli.github.io/"
+        }
+      },
+      {
+        "name": "Shailesh Alluri",
+        "role": "GRA",
+        "image": "Shailesh.jpg",
+        "intro": "MS, School of Computing - Clemson University, US",
+        "contact": {
+          "mail": "ravia@.clemson.edu",
+          "linkedin": "https://www.linkedin.com/in/shailesh-alluri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
         }
       }
     ]
