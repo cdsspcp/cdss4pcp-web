@@ -3,6 +3,52 @@ function $1(props) {
         <ul>
 
 <li>
+  <a href="https://doi.org/10.1055/a-1862-0421" target="_blank" rel="noopener noreferrer">
+    A systematic approach to configuring MetaMap for optimal performance.
+  </a>
+  <p>Jing X, Indani A*, Hubig N, Min H, Gong Y, Cimino JJ, Sittig DF, Rennert L, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R</p>
+  <p>Methods Inf Med, 2022. PMID: 35613942; PMCID: PMC9788913; DOI: 10.1055/a-1862-0421</p>
+</li>
+
+<li>
+  <p>Fine-tuning a Hierarchical Attention Based BiLSTM-CRF Model Using Minimal Labeled Data.</p>
+  <p>Komatineni K*, Goli R*, Alluri S*, Hubig NC, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
+  <p>AMIA Summit 2024, page 760–761. Mar 18–21, Boston</p>
+</li>
+
+<li>
+  <p>Developing a Reusable Clinical Decision Support System Module for Immunization Recommendations: A Case Study with OpenEMR and OpenMRS.</p>
+  <p>Boobalan AS*, Orlioglu S*, Boyce RD, Min H, Gong Y, Sittig DF, Biondich P, Wright A, Nøhr C, Law T, Robinson D, Faxvaag A, Hubig NC, Gimbel R, Rennert L, Jing X</p>
+  <p>AMIA Summit 2024, page 799–800. Mar 18–21, Boston</p>
+</li>
+
+<li>
+  <p>Using Semantic Web Technology to leverage interoperable clinical decision support system rules: a pathway to interoperable patient records.</p>
+  <p>Jing X, Cimino JJ, Sittig DF, Min H, Gong Y, Boyce RD, Robinson D, Biondich P, Wright A, Nøhr CG, Law T, Faxvaag A, Hubig N, Goli R, Nedunchezhiyan K, Boobalan AS, Orlioglu S, Crozier C, Rennert L, Gimbel R</p>
+  <p>BMC Proceedings, 2023, 17(Suppl 19):O13</p>
+</li>
+
+<li>
+  <p>Keyphrase identification with limited labeled dataset using deep active learning and domain adaptation.</p>
+  <p>Goli R*, Hubig N, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
+  <p>AMIA 2022, page 1331–1332. Nov 5–9, 2022, Washington DC</p>
+</li>
+
+<li>
+  <p>A clinical decision support system (CDSS) ontology to facilitate portable vaccination CDSS rules: preliminary results.</p>
+  <p>Jing X, Min H, Gong Y, Cimino JJ, Robinson D, Sittig D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Indani A*, Hubig N, Gimbel R, Rennert L</p>
+  <p>AMIA Annu Symp Proc. 2022 Feb 21;2021. Page 1695.</p>
+</li>
+
+<li>
+  <a href="https://doi.org/10.1101/2023.01.26.23285060" target="_blank" rel="noopener noreferrer">
+    Keyphrase Identification Using Minimal Labeled Data with Hierarchical Context and Transfer Learning.
+  </a>
+  <p>Goli R*, Hubig N, Min H, Gong Y, Sittig DF, Rennert L, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Weaver A*, Gimbel R, Jing X</p>
+  <p>BMC Med Inform Decis Mak. Under review. MedRxiv Preprint, 2023. PMID: 37292830; PMCID: PMC10246160; DOI: 10.1101/2023.01.26.23285060</p>
+</li>
+
+<li>
 <a href="http://dx.doi.org/10.2196/43053" target="_blank" rel="noopener noreferrer">Ontologies Applied in Clinical Decision Support System Rules: Systematic Review.</a>
 <p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nøhr C, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
 <p>JMIR Med Inform, 2023. PMID: 36534739; PMCID: 9896360</p>
