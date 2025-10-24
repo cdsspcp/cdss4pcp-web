@@ -3,6 +3,12 @@ function $1(props) {
         <ul>
 
 <li>
+<a href="http://dx.doi.org/10.2196/43053" target="_blank" rel="noopener noreferrer">Ontologies Applied in Clinical Decision Support System Rules: Systematic Review.</a>
+<p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nøhr C, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
+<p>JMIR Med Inform, 2023. PMID: 36534739; PMCID: 9896360</p>
+</li>
+
+<li>
   Literature Analysis on Ontologies Applied in Clinical Decision Support Systems.
   <p>Jing X, Min H, Gong Y, Biondich P, Robinson D, Law T, Nohr CG, Faxvaag A, Rennert L, Hubig N, Gimbel R</p>
   <p>Studies in Health Technology and Informatics, 2024, 310: 1347-1348. PMID: 38270037; PMCID: PMC10964188; DOI: 10.3233/SHTI231188</p>
