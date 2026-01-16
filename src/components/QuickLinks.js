@@ -39,7 +39,7 @@ function $1(props) {
 </li>
 
 <li>
-  <p>Fine-tuning a Hierarchical Attention Based BiLSTM-CRF Model Using Minimal Labeled Data.</p>
+  <a href="assets/PDFs/Keerthana_Summit_2024.pdf" target="_blank">Fine-tuning a Hierarchical Attention Based BiLSTM-CRF Model Using Minimal Labeled Data.</a>
   <p>Komatineni K*, Goli R*, Alluri S*, Hubig NC, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
   <p>AMIA Summit 2024, page 760–761. Mar 18–21, Boston</p>
 </li>
@@ -77,13 +77,13 @@ function $1(props) {
 </li>
 
 <li>
-  <a href="">Keyphrase identification with limited labeled dataset using deep active learning and domain adaptation</a>
+  <a href="assets/PDFs/Rohan_AMIA2022_2Pages.pdf" target="_blank">Keyphrase identification with limited labeled dataset using deep active learning and domain adaptation</a>
   <p>Goli R*, Hubig N, Min H, Gong Y, Sittig DF, Robinson D, Biondich P, Wright A, Nøhr C, Law T, Faxvaag A, Gimbel R, Rennert L, Jing X</p>
   <p>AMIA 2022, Nov 5-9, 2022, Washington DC</p>
 </li>
 
 <li>
-  <a href="">Keyphrase identification with limited labeled dataset using deep active learning and domain adaptation</a>
+  <p>Keyphrase identification with limited labeled dataset using deep active learning and domain adaptation</p>
   <p>Goli R*, Hubig N, Renert L, Gimbel R, Jing X</p>
   <p>The 7th Annual Clemson Research Symposium, Clemson, SC, 2022-05-10</p>
 </li>
