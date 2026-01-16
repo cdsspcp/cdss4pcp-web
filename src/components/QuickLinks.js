@@ -33,7 +33,7 @@ function $1(props) {
 </li>
 
 <li>
-  <p>Developing a Reusable Clinical Decision Support System Module for Immunization Recommendations: A Case Study with OpenEMR and OpenMRS.</p>
+  <a href= "public/assets/PDFs/Akash_Summit_2024.pdf" target="_blank" rel="noopener noreferrer">Developing a Reusable Clinical Decision Support System Module for Immunization Recommendations: A Case Study with OpenEMR and OpenMRS.</a>
   <p>Boobalan AS*, Orlioglu S*, Boyce RD, Min H, Gong Y, Sittig DF, Biondich P, Wright A, Nøhr C, Law T, Robinson D, Faxvaag A, Hubig NC, Gimbel R, Rennert L, Jing X</p>
   <p>AMIA Summit 2024, page 799–800. Mar 18–21, Boston</p>
 </li>
